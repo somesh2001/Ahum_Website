@@ -6,7 +6,7 @@
 3. Different subscription plans for user.<br/>
 4. Razorpay payment gateway integration.<br/>
 
-likewise there are "n" number of Functionalities on the website.
+likewise there are "n" number of Functionalities on the website.<br/>
 Website is hosted using Hostinger platform.
 ## Website is now live
 please visit - https://ahum.life/
