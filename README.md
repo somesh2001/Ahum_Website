@@ -1,4 +1,4 @@
-# Ahum_Website - Website for spirituality and mindfulness
+# Ahum_Website - Website for Spirituality and Mindfulness
 ## I have developed the AHUM website from scratch using Wordpress.
 ## Website have following Functionalities
 1. User can book a free session. On booking the session Zoom link will be send to the respective user via email.<br/>
@@ -10,3 +10,5 @@ likewise there are "n" number of Functionalities on the website.
 
 ## Website is now live
 please visit - https://ahum.life/
+
+## Note -This website I developed during my internship. Based on the client need website is been developed.
