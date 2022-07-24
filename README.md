@@ -7,7 +7,7 @@
 4. Razorpay payment gateway integration.<br/>
 
 likewise there are "n" number of Functionalities on the website.
-
+Website is hosted using Hostinger platform.
 ## Website is now live
 please visit - https://ahum.life/
 
