@@ -8,7 +8,9 @@
 
 likewise there are "n" number of Functionalities on the website.<br/>
 Website is hosted using Hostinger platform.
+
 ## Website is now live
+
 please visit - https://ahum.life/
 
-## Note -This website I developed during my internship. Based on the client need website is been developed.
+
